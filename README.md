@@ -5,9 +5,8 @@
 
 3 - Ouputs:
 
-  3.1 - Scatterplot with rap artists showing their total words count vs total unique words count]
-  
-  3.2 - Wordcloud for each artist with their most used words
+	3.1 - Scatterplot with rap artists showing their total words count vs total unique words count
+	3.2 - Wordcloud for each artist with their most used words
 
 article explaining (in portuguese):
 https://brenoimatos.medium.com/quem-tem-o-maior-vocabul%C3%A1rio-do-rap-nacional-ddbbdc902779
